@@ -1,6 +1,5 @@
 # project_ideas
-a list of potential projects
-* 916 forum
+### a list of potential projects
 * Give weird get weird
 * This day in history
 * top songs chart (soundcloud / other music site), ability to filter by genre. possibly pull background information from wikipedia and display for artist. 
