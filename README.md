@@ -1,7 +1,7 @@
 # project_ideas
 a list of potential projects
-### 916 forum
-### Give weird get weird
+* 916 forum
+* Give weird get weird
 ### This day in history
 ### top songs chart (soundcloud / other music site), ability to filter by genre. possibly pull background information from wikipedia and display for artist. 
 ### closest pizza place to address
