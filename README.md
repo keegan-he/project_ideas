@@ -15,3 +15,9 @@
 * Event planner app for friends
 * Movie randomizer app. Enter movies you want to see in a list and randomize it. 
 * Local restraunt randomizer - pull random restraunt suggestion and serve it to user
+
+
+
+
+
+![alt text](https://chatboten.com/wp-content/uploads/2017/03/gif-futurama-small-bender.gif "build itz")
