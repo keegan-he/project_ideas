@@ -2,9 +2,9 @@
 
 ![alt text](https://chatboten.com/wp-content/uploads/2017/03/gif-futurama-small-bender.gif "build itz")
 
-* Give weird get weird
-* This day in history
-* top songs chart (soundcloud / other music site), ability to filter by genre. possibly pull background information from wikipedia and display for artist. 
+* Give weird get weird - user submits a link to something weird, user receives a link to something weird
+* This day in history - display what happened in the past on this day
+* Display top songs (soundcloud / other music site), ability to filter by genre. possibly pull background information from wikipedia and display for artist. 
 * closest pizza place to address
 * create a community - each user that signs up has the ability to create a forum and add users to it to "create a community". 
 * Top instagram posts of the day
