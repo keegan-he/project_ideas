@@ -1,5 +1,5 @@
 # project_ideas
-### a list of potential projects
+### a list of projects
 * Give weird get weird
 * This day in history
 * top songs chart (soundcloud / other music site), ability to filter by genre. possibly pull background information from wikipedia and display for artist. 
