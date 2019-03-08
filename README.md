@@ -2,8 +2,6 @@
 
 ![alt text](https://chatboten.com/wp-content/uploads/2017/03/gif-futurama-small-bender.gif "build itz")
 
-
-### a list of projects
 * Give weird get weird
 * This day in history
 * top songs chart (soundcloud / other music site), ability to filter by genre. possibly pull background information from wikipedia and display for artist. 
