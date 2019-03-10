@@ -17,3 +17,4 @@
 * Event planner app for friends
 * Movie randomizer app. Enter movies you want to see in a list and randomize it. 
 * Local restraunt randomizer - pull random restraunt suggestion and serve it to user
+* Top meals - aggregate top meals by restraunt & city via yelp api/others, then rank
