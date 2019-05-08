@@ -18,3 +18,4 @@
 * Movie randomizer app. Enter movies you want to see in a list and randomize it. 
 * Local restraunt randomizer - pull random restraunt suggestion and serve it to user
 * Top meals - aggregate top meals by restaurant & city via yelp api/others, then rank
+* Send DMCA - send notice with required points of info to marketplace of choice i.e. ebay, amazon
